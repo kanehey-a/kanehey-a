@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanehey-a, just started learning programming.
 - 👀 I’m interested in travelling and eating.
-- 🌱 I’m currently learning html/css.
+- 🌱 I’m currently learning html/css and Python.
 - 📫 How to reach me (later).
 
 <!---
